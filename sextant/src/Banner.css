@@ -1,0 +1,13 @@
+/* banner.css */
+
+
+.banner {
+    background-color: #007bff; /* blue color*/
+    color:#fff; /* white text color*/
+    padding: 10px;
+    text-align: center;
+}
+
+.banner h1 {
+    margin: 0;
+}
